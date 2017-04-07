@@ -1,14 +1,5 @@
 # DevOps_Milestone-1
 
-## Ansible Scripts
-
-1. [Checkboc.io] (https://github.ncsu.edu/ppfirake/DevOps_Milestone1/blob/master/abc.yml)
-
-## Screencasts: 
-
-1. [Checkbox.io screencast] (https://youtu.be/bHKwlbAp1-Y)
-
-
 ## For Checkbox.io 
 
 ### Instructions for Checkbox.io :
@@ -18,9 +9,8 @@ NPM modules : express, validator, archiver, json5, jade, emailjs, cors, mongodb,
 Configuration Changes : nginx and mongodb
 
 1. Created Vagrant node-host machines. One being ansible server and another as node.
-2. Run ansible playbook yaml file. This file will 
+2. Run ansible playbook yaml file.
 
-   ansible playbook file for checkbox.io is  https://github.ncsu.edu/ppfirake/DevOps_Milestone1/blob/master/abc.yml
 
    (1) Install dependencies 
 
